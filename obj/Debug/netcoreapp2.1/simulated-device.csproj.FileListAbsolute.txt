@@ -1,0 +1,11 @@
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/bin/Debug/netcoreapp2.1/simulated-device.deps.json
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/bin/Debug/netcoreapp2.1/simulated-device.runtimeconfig.json
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/bin/Debug/netcoreapp2.1/simulated-device.runtimeconfig.dev.json
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/bin/Debug/netcoreapp2.1/simulated-device.dll
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/bin/Debug/netcoreapp2.1/simulated-device.pdb
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.csprojAssemblyReference.cache
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.csproj.CoreCompileInputs.cache
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.AssemblyInfoInputs.cache
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.AssemblyInfo.cs
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.dll
+/Users/rajasri/Desktop/UWB/Winter2019/Internet of Things/final/obj/Debug/netcoreapp2.1/simulated-device.pdb
